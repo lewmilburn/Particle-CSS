@@ -1,5 +1,6 @@
 # Particle-CSS
-[![](https://data.jsdelivr.com/v1/package/gh/lewmilburn/Particle-CSS/badge?style=rounded)](https://www.jsdelivr.com/package/gh/lewmilburn/Particle-CSS)
+[![](https://data.jsdelivr.com/v1/package/gh/lewmilburn/Particle-CSS/badge?style=rounded)](https://www.jsdelivr.com/package/gh/lewmilburn/Particle-CSS) [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
 
 Full credit to Alexi Taylor on CodePen
 https://codepen.io/alexitaylor/pen/RgxJwg?editors=0100
