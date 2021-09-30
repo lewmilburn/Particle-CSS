@@ -1,5 +1,6 @@
 # Particle-CSS
-[![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/lewmilburn/Particle-CSS/badge?style=rounded)](https://www.jsdelivr.com/package/gh/lewmilburn/Particle-CSS)
+[![](https://data.jsdelivr.com/v1/package/gh/lewmilburn/Particle-CSS/badge?style=rounded)](https://www.jsdelivr.com/package/gh/lewmilburn/Particle-CSS)
+
 Full credit to Alexi Taylor on CodePen
 https://codepen.io/alexitaylor/pen/RgxJwg?editors=0100
 
