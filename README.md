@@ -1,9 +1,6 @@
 # Particle-CSS
 [![](https://data.jsdelivr.com/v1/package/gh/lewmilburn/Particle-CSS/badge?style=rounded)](https://www.jsdelivr.com/package/gh/lewmilburn/Particle-CSS) [![Github all releases](https://img.shields.io/github/downloads/lewmilburn/Particle-CSS/total.svg)](https://GitHub.com/lewmilburn/Particle-CSS/releases/)
 
-## Example
-http://code.lewismilburn.com/particlecss-example.html
-
 Full credit to Alexi Taylor on CodePen
 https://codepen.io/alexitaylor/pen/RgxJwg?editors=0100
 
@@ -21,3 +18,7 @@ We also have minified versions available:
 ```
 
 We recommend fetching the specific version that you want to use in order to prevent breakages in production environments.
+
+## Example Source Code
+Live example: https://code.lewismilburn.com/particlecss-example.html
+Source code: https://cdn.jsdelivr.net/gh/lewmilburn/Particle-CSS@1.2.0/example.html
